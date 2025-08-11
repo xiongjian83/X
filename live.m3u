@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1 tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/photo_2025-03-16_10-57-18.jpg" group-title="收藏频道",更新08/09
+#EXTINF:-1 tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/photo_2025-03-16_10-57-18.jpg" group-title="收藏频道",更新08/11
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTM3U
